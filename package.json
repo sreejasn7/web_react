@@ -1,0 +1,24 @@
+{
+  "name": "web_react",
+  "version": "1.0.0",
+  "description": "Web app using react",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreejasn7/web_react.git"
+  },
+  "author": "Sreeja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreejasn7/web_react/issues"
+  },
+  "homepage": "https://github.com/sreejasn7/web_react#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
